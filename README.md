@@ -2,7 +2,7 @@
 
   <!-- Placeholder for a logo or banner image -->
   <!-- Replace the src attribute with the path to your image -->
-  <img src="assets/banner.png" alt="Banner" width="500"/>
+  <img src="assets/banner.png" alt="Banner" width="350"/>
 
   <h1>Hi there, I'm @sinterwong 👋</h1>
 </div>
