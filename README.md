@@ -47,15 +47,15 @@ Here are some of the projects I'm proud of.
 </details>
 
 <details>
-  <summary>ai-workflow-sdk</summary>
+  <summary>ai-pipe</summary>
   <br />
-  <img src="assets/ai-workflow-sdk-logo.jpeg" alt="ai-workflow-sdk" width="300"/>
+  <img src="assets/ai-pipe-logo2.jpeg" alt="ai-pipe" width="300"/>
   <p>
     <strong>Description:</strong> The pipeline framework implements DAG-based logic construction, enabling the direct creation of pipelines through configuration files once computing nodes are defined and registered.
     <br />
     <strong>Tech Stack:</strong> c++, concurrency, graph-theory
     <br />
-    <a href="https://github.com/sinterwong/ai-workflow-sdk" target="_blank">View Repository</a>
+    <a href="https://github.com/sinterwong/ai-pipe" target="_blank">View Repository</a>
   </p>
 </details>
 
